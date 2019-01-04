@@ -1,0 +1,5 @@
+1. Title of this project is the fishing game project.
+2. This game is going to be designed in HTML
+3. This game will be programed in Javascript
+4. All images in this project will be compressed to save space and time. (load time)
+5. This game will be based around fishing in different locations for non-fictional fish varieties in different non-fictional locations
